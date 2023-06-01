@@ -1,1 +1,8 @@
 Hello, world!
+
+Another day practicing the following commands:
+- git status
+- git add
+- git -m "description"
+- git push
+- git log
